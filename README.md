@@ -21,7 +21,7 @@ The Netflix clone website is a fully functional replica of the popular streaming
 
 ## Demo
 
-Check out the live demo of the Netflix Clone: [Demo Link](https://your-demo-link.com)
+Check out the live demo of the Netflix Clone: [Demo Link](https://659a70246270e66f7327529b--exquisite-dusk-f498ed.netlify.app/)
 
 ## Getting Started
 
